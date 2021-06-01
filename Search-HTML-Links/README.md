@@ -1,6 +1,6 @@
 # How to use Search-HTMl-Links
 
-This PowerShell script can run against any publicly accessible website, to query URLS inside href links and check for specific words.
+This PowerShell script can run against any publicly accessible website, to query URLs inside href links and check for specific words.
 
 The file structure includes:
 $SiteAddress - The website you want to check. I've left a Microsoft Tech Community blog page in as an example
